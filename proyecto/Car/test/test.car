@@ -1,1 +1,11 @@
-hello world
+move_fw 100
+turn_lt 90
+move_fw 100
+turn_lt 120
+move_fw 100
+turn_lt 45
+move_fw 100
+turn_lt 45
+move_fw 100
+turn_lt 45
+move_fw 100

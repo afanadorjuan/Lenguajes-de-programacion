@@ -22,7 +22,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		App<World, Car> app = initCar();
-		app.run(Main::program2);
+		app.run(Main::program);
 	}
 
 	private static void program(World world, Car car) {
